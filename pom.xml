@@ -50,7 +50,6 @@
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-			<version>${h2.version}</version>
 		</dependency>
 		<!-- Add MySQL database support [for running with PRODUCTION profile] -->
 		<dependency>

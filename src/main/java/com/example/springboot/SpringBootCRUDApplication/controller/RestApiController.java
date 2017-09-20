@@ -17,6 +17,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 
 import com.example.springboot.SpringBootCRUDApplication.model.User;
 import com.example.springboot.SpringBootCRUDApplication.service.UserService;
+import com.example.springboot.SpringBootCRUDApplication.util.CustomErrorType;
 
 @RestController
 @RequestMapping("/api")
